@@ -6,7 +6,6 @@ influence investment decisions.
 
 ## Tools Used
 - Microsoft Excel
-- SQL
 - Power BI
 
 ## Key Analysis Performed
